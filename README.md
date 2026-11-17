@@ -23,3 +23,7 @@ SH1106 display simulations with sample readings and an example IP address.
 **Rete e indirizzo IP / Network and IP address**
 
 ![Schermata OLED di rete / OLED network screen](media/oled-rete-v8.png)
+
+## Modello 3D e video / 3D model and video
+
+[Apri la pagina del progetto su MakerWorld / Open the project page on MakerWorld](https://makerworld.com/it/models/3267153-air-quality-sensor-monitor-with-esp32#profileId-3704308)
