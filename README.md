@@ -10,3 +10,16 @@ Compact environmental monitor for maker workspaces.
 ESP32-C3 Super Mini · BME280 · MQ-135 · SH1106 · WS2812B
 
 **Franco Ghinzani**
+
+## Schermate OLED / OLED screens
+
+Simulazioni del display SH1106 con valori e IP di esempio.  
+SH1106 display simulations with sample readings and an example IP address.
+
+**Temperatura, umidità e indice aria / Temperature, humidity and air index**
+
+![Schermata ambientale OLED / OLED readings screen](media/oled-ambiente-v8.png)
+
+**Rete e indirizzo IP / Network and IP address**
+
+![Schermata OLED di rete / OLED network screen](media/oled-rete-v8.png)
