@@ -11,6 +11,14 @@ ESP32-C3 Super Mini · BME280 · MQ-135 · SH1106 · WS2812B
 
 **Franco Ghinzani**
 
+## Immagini del prototipo / Prototype images
+
+![Sentinel Micro con LED verde / Sentinel Micro with green LED](media/sentinel-micro-green.png)
+
+![Sentinel Micro con LED rosso / Sentinel Micro with red LED](media/sentinel-micro-red.png)
+
+![Sentinel Micro con LED blu / Sentinel Micro with blue LED](media/sentinel-micro-blue.png)
+
 ## Schermate OLED / OLED screens
 
 Simulazioni del display SH1106 con valori e IP di esempio.  
